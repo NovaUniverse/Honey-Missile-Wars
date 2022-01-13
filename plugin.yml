@@ -1,0 +1,7 @@
+name: HoneyMissileWars
+main: net.novauniverse.games.honeymissilewars.HoneyMissileWars
+description: Novauniverse HoneyMissileWars gamemode
+version: 1.0
+api-version: 1.16
+depend: [StructureBlockLib, NovaCore, NovaCoreGameEngine]
+softdepend: [NovaGamesTarget]
