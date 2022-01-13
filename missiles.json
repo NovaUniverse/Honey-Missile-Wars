@@ -1,0 +1,135 @@
+[
+	{
+		"name": "guardian",
+		"display_name": "Guardian",
+		"offset": {
+			"RED": {
+				"rotation": "NONE",
+				"x": 3,
+				"y": -7,
+				"z": -1
+			},
+			"GREEN": {
+				"rotation": "ROTATION_180",
+				"x": -3,
+				"y": -7,
+				"z": 1
+			}
+		},
+		"icon": "OCELOT_SPAWN_EGG"
+	},
+	{
+		"name": "lightning",
+		"display_name": "Lightning",
+		"offset": {
+			"RED": {
+				"rotation": "ROTATION_180",
+				"x": 12,
+				"y": -6,
+				"z": 1
+			},
+			"GREEN": {
+				"rotation": "NONE",
+				"x": -12,
+				"y": -6,
+				"z": -1
+			}
+		},
+		"icon": "OCELOT_SPAWN_EGG"
+	},
+	{
+		"name": "sheildbuster",
+		"display_name": "Sheildbuster",
+		"offset": {
+			"RED": {
+				"rotation": "NONE",
+				"x": 3,
+				"y": -7,
+				"z": -1
+			},
+			"GREEN": {
+				"rotation": "ROTATION_180",
+				"x": -3,
+				"y": -7,
+				"z": 1
+			}
+		},
+		"icon": "OCELOT_SPAWN_EGG"
+	},
+	{
+		"name": "tomahawk",
+		"display_name": "Tomahawk",
+		"offset": {
+			"RED": {
+				"rotation": "ROTATION_180",
+				"x": 16,
+				"y": -6,
+				"z": 0
+			},
+			"GREEN": {
+				"rotation": "NONE",
+				"x": -16,
+				"y": -6,
+				"z": 0
+			}
+		},
+		"icon": "OCELOT_SPAWN_EGG"
+	},
+	{
+		"name": "juggernaut",
+		"display_name": "Juggernaut",
+		"offset": {
+			"RED": {
+				"rotation": "ROTATION_180",
+				"x": 14,
+				"y": -7,
+				"z": 1
+			},
+			"GREEN": {
+				"rotation": "NONE",
+				"x": -14,
+				"y": -7,
+				"z": -1
+			}
+		},
+		"icon": "OCELOT_SPAWN_EGG"
+	},
+	{
+		"name": "bomber",
+		"display_name": "Bomber",
+		"offset": {
+			"RED": {
+				"rotation": "NONE",
+				"x": 4,
+				"y": -7,
+				"z": 0
+			},
+			"GREEN": {
+				"rotation": "ROTATION_180",
+				"x": -4,
+				"y": -7,
+				"z": 0
+			}
+		},
+		"icon": "STRIDER_SPAWN_EGG"
+	},
+    {
+		"name": "blocker",
+		"display_name": "Blocker",
+		"offset": {
+			"RED": {
+				"rotation": "NONE",
+				"x": 4,
+				"y": -8,
+				"z": -1
+			},
+			"GREEN": {
+				"rotation": "ROTATION_180",
+				"x": -4,
+				"y": -8,
+				"z": 1
+			}
+		},
+		"icon": "ZOMBIE_HORSE_SPAWN_EGG"
+	}
+	]
